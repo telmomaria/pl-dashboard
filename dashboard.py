@@ -7,8 +7,8 @@ import time
 from datetime import datetime
 
 st.set_page_config(page_title="PL Dashboard", layout="wide")
-st.title("PL Dashboard — Polymarket Arbitrage")
-st.markdown("**Arbitragem em tempo real • P&L • Order Books**")
+st.title("PL Dashboard")
+st.markdown("**Tempo real • P&L • Order Books**")
 
 # Simulação (substitui depois com os teus dados)
 df = pd.DataFrame({
