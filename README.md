@@ -1,6 +1,6 @@
 # pl-dashboard
 
-Dashboard de arbitragem da Polymarket.
+Dashboard
 
 Rode com:
 ```bash
